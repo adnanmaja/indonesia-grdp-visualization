@@ -13,7 +13,6 @@ This project visualizes the **Gross Regional Domestic Product (GRDP) Growth** ac
   - Province names
   - GRDP growth in **percent format**
 - Outlier-aware color scaling using **Z-score stretching**
-- Custom colormap (`RdYlGn_r`) with custom bins for better contrast
 - Data pre-processing, formatting, and GeoJSON enrichment
 
 ## 🧠 Motivation
