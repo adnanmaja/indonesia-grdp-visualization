@@ -46,4 +46,5 @@ I built this to:
 -check.ipynb # Jupyter Notebook with code
 -preview.png # Screenshot of the final map
 -map.html # HTML export of the map
+-df_cleaned.csv # Preview of the final df `df_cleaned`
 -README.md
