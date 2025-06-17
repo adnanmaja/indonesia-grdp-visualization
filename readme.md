@@ -46,4 +46,5 @@ I built this to:
 -data.csv # Cleaned GRDP data per province, source: (BPS-Statistics Indonesia: Gross Regional Domestic Product of Provinces in Indonesia by Industry 2019-2023)
 -check.ipynb # Jupyter Notebook with code
 -preview.png # Screenshot of the final map
+-map.html # HTML export of the map
 -README.md
